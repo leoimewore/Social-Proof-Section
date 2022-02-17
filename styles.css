@@ -81,7 +81,7 @@ article > p {
     margin-top: 1.5em;
 }
 
-#status {
+.status {
     color: hsl(333, 80%, 67%);
     font-size: smaller;
     margin-left: 1em;
@@ -235,7 +235,7 @@ article > p {
     margin-top: 1.5em;
 }
 
-#status {
+.status {
     color: hsl(333, 80%, 67%);
     font-size: smaller;
     margin-left: 1em;
