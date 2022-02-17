@@ -66,7 +66,7 @@ body {
     
 }
 
-div {
+.flex-item {
     display: flex;
 }
 
@@ -194,7 +194,7 @@ body {
     background-color: hsl(300, 43%, 22%);
     border-radius: 0.5em;
     padding: 2em;
-    max-width: 550px;
+    max-width: 600px;
     
 }
 
@@ -220,7 +220,7 @@ body {
     
 }
 
-div {
+.flex-item {
     display: flex;
 }
 
